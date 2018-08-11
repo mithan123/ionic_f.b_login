@@ -1,0 +1,34 @@
+/* Empty. Add your own CSS if you like */
+.pane, .view{
+	background-color: #4867aa;
+}
+img {
+    margin: 0 auto;
+    display: block;
+}
+.item-input {
+    padding: 9px 0 5px 17px;
+    margin: 13px 28px;
+    border-radius: 5px;
+}
+.button.button-block{
+    padding: 5px;
+    width: 85%;
+    margin: 0 auto;
+    font-size: 17px;
+    color: #fff;
+    background: #223b73;
+    font-weight: bold;
+}
+.bar.bar-assertive {
+    border-color: transparent;
+    background-color: transparent;
+    color: #fff;
+}
+a {
+    color: #fff;
+    font-size: 17px;
+    margin: 0 auto;
+    display: block;
+    padding: 89px 97px;
+}
